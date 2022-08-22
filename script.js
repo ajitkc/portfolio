@@ -46,7 +46,7 @@ for (var i = 0; i < navLinks.length; i++) {
 
 // Typing animation
 var typed = new Typed(".typing",{ 
-    strings: ["UI/UX Designer","Front End Developer","Graphic Designer","Freelancer"],
+    strings: ["IT Engineer","UI/UX Designer","Front End Developer","Graphic Designer","Freelancer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true

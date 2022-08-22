@@ -16,7 +16,7 @@
     background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb {
-    background:#5368b5 ;
+    background:#426885 ;
     border-radius: 12px;
     transition: all 0.3s ease;
 }
@@ -34,7 +34,7 @@ nav{
   font-family: 'Ubuntu', sans-serif;
 }
 nav.sticky{
-  background: #5368b5;
+  background: #426885;
   padding: 13px 0;
 }
 nav .navbar{
@@ -47,7 +47,7 @@ nav .navbar{
 nav .navbar .logo a{
   font-weight: 500;
   font-size: 35px;
-  color: #5368b5;
+  color: #426885;
 }
 nav.sticky .navbar .logo a{
   color: #fff;
@@ -68,7 +68,7 @@ nav .navbar .menu li{
   transition: all 0.4s ease;
 }
 .navbar .menu a:hover{
-  color: #5368b5;
+  color: #426885;
 }
 nav.sticky .menu a{
   color: #FFF;
@@ -77,7 +77,7 @@ nav.sticky .menu a:hover{
   color: #0E2431;
 }
 .navbar .media-icons a{
-  color: #5368b5;
+  color: #426885;
   font-size: 18px;
   margin: 0 6px;
 }
@@ -98,7 +98,7 @@ nav .menu-btn,
   display: none;
 }
 nav .menu-btn{
-  color: #5368b5;
+  color: #426885;
 }
 nav.sticky .menu-btn{
   color: #FFF;
@@ -111,10 +111,10 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-background-color: #F0F8FF;
-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23566ab5' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%238a94c5' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%235a68a2' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%236372b0' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%236273b7' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%237f8abe' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%235264a9' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23717fbc' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%235368b4' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%23596cb5' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%23949dca' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%235967a1' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
-background-attachment: fixed;
-background-size: cover;
+  background-color: #F0F8FF;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23426885' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%232b4558' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%233e627d' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%23304d63' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%233a5b75' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%2336566d' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%2336556d' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%233b5e78' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%23324f66' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%23416784' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%232e495e' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%2347708f' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
   /*background: url("images/background.png") no-repeat;*/
   background-size: cover;
   background-position: center;
@@ -142,7 +142,7 @@ background-size: cover;
 .home .text-three{
   font-size: 40px;
   margin: 5px 0;
-  color: #5368b5;
+  color: #426885;
 }
 .home .text-four{
   font-size: 23px;
@@ -158,16 +158,16 @@ background-size: cover;
   border-radius: 6px;
   font-size: 25px;
   font-weight: 400;
-  background: #5368b5;
+  background: #426885;
   color: #fff;
   cursor: pointer;
   border: 2px solid transparent;
   transition: all 0.4s ease;
 }
 .home .button button:hover{
-  border-color: #5368b5;
+  border-color: #426885;
   background-color: #fff;
-  color: #5368b5;
+  color: #426885;
 }
 
 /* About Section Styling */
@@ -204,7 +204,7 @@ section .title span::after{
   position: absolute;
   height: 3px;
   width: 100%;
-  background: #5368b5;
+  background: #426885;
   left: 0;
   bottom: 0;
 }
@@ -245,16 +245,16 @@ section .button button{
   border-radius: 4px;
   font-size: 25px;
   font-weight: 400;
-  background: #5368b5;
+  background: #426885;
   color: #fff;
   border: 2px solid transparent;
   cursor: pointer;
   transition: all 0.4s ease;
 }
 section .button button:hover{
-  border-color: #5368b5;
+  border-color: #426885;
   background-color: #fff;
-  color: #5368b5;
+  color: #426885;
 }
 
  /* My Skills CSS */
@@ -304,11 +304,11 @@ section .button button:hover{
 }
 .skills-details .boxes .topic{
   font-size: 20px;
-  color: #5368b5;
+  color: #426885;
 }
 .skills-details .boxes .per{
   font-size: 60px;
-  color: #5368b5;
+  color: #426885;
 }
 
 /* My Services CSS */
@@ -328,13 +328,13 @@ section .button button:hover{
   transition: all 0.4s ease;
 }
 .services .boxes .box:hover{
-  background: #5368b5;
+  background: #426885;
   color: #fff;
 }
 .services .boxes .box .icon{
   height: 50px;
   width: 50px;
-  background: #5368b5;
+  background: #426885;
   border-radius: 50%;
   text-align: center;
   line-height: 50px;
@@ -345,7 +345,7 @@ section .button button:hover{
 }
 .boxes .box:hover .icon{
   background-color: #fff;
-  color: #5368b5;
+  color: #426885;
 }
 .services .boxes .box:hover .topic,
 .services .boxes .box:hover p{
@@ -372,7 +372,7 @@ section .button button:hover{
 
 /* Footer CSS */
 footer{
-  background: #5368b5;
+  background: #426885;
   padding: 15px 0;
   text-align: center;
   font-family: 'Poppins', sans-serif;
@@ -395,7 +395,7 @@ footer .text span a:hover{
   bottom: 20px;
   right: 20px;
   color: #fff;
-  background: #5368b5;
+  background: #426885;
   padding: 7px 12px;;
   font-size: 18px;
   border-radius: 6px;
@@ -462,7 +462,7 @@ footer .text span a:hover{
     margin: 10px 0;
   }
   nav.sticky .menu a:hover{
-    color: #5368b5;
+    color: #426885;
   }
   nav .navbar .media-icons{
     display: none;
@@ -509,6 +509,6 @@ footer .text span a:hover{
   }
   .skills-details .boxes .per{
     font-size: 50px;
-    color: #5368b5;
+    color: #426885;
   }
 }
